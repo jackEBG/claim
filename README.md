@@ -35,12 +35,12 @@ CapitalOutstanding has a strong positive correlation (1.0) with itself, as expec
 Overall, the correlation matrix provides insights into the linear relationships between the three variables, which could be useful for further analysis or modeling.
 
 ![image](https://github.com/user-attachments/assets/7f901e4e-41d0-4ded-8d63-a79da054a7c6)
-Explanation
+##Explanation
 •	Correlation and Trends: Both variables generally follow an upward trend but with different intensities and timings. The sharp rise and fall in Total Claims indicate periods of high activity or significant events affecting claims.
 •	Business Implications:
 o	The rise in Total Premiums could indicate successful sales or marketing strategies, policy renewals, or increased customer base.
 o	The sharp rise and subsequent fall in Total Claims could be tied to specific incidents, regulatory changes, or seasonal effects.
-Visual Interpretation:
+##Visual Interpretation:
 •	Initial Steady Rise: From October 2013, there's a steady increase in both Total Premiums and Total Claims, reflecting a growing business or market conditions.
 •	Claims Peak: The sharp peak around early 2015 in Total Claims suggests a period of high claims activity, which might need further investigation.
 •	Premiums Peak: Around mid-2015, Total Premiums peak and stabilize, showing sustained revenue from premiums.
