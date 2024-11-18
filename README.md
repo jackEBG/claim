@@ -1,7 +1,7 @@
 # Insurance
 # Project Title:- Analyse Historical Insurance Claim Data
 
-## Description
+- Description
 The objective of the analyses is to help optimise the marketing strategy as well as discover
 “low-risk” targets for which the premium could be reduced, hence an opportunity to attract new clients.
 Insurance Data Analysis Findings
@@ -9,7 +9,7 @@ The primary goal of this analysis was to explore relationships and patterns with
 Specifically, we aimed to understand how total premiums and claims vary across different dimensions, 
 such as time and vehicle types, as well as geographical locations.
 
-## Procedures
+* Procedures
 Data are obtained by using Python's Pandas library to load the dataset into a DataFrame. Inspection underway such as, 
 data types, and summary statistics to get an understanding of the dataset's structure. Data cleaning & pre-processing 
 also taken place, by handling missing values. Relevant numerical and categorical features were identified for analysis, 
